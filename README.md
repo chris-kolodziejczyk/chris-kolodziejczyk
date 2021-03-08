@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **and working on increasing my skills towards automation with the use of JavaScript using the latest standards and catching up on database-related material**
 
-- 💬 Ask me about **i am happy to discuss topics related to test automation and programming, in particular with the use of ECMAScript**
+- 💬 Ask me about: **i am happy to discuss topics related to test automation and programming, in particular with the use of ECMAScript**
 
-- 👨‍💻 All of my projects are available at **https://github.com/chris-kolodziejczyk**
+- 👨‍💻 All of my projects are available at **https://github.com/chris-kolodziejczyk?tab=repositories**
 
 - 📝 I regularly write articles on **https://testerzy.pl/**
 
