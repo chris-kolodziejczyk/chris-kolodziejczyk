@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on **https://testerzy.pl/**
 
-<div class="home-hero-module--aspect-ratio-box--7d4bc"><video class="home-hero-module--illustration--07433" src="/static/home-page-main-30c6e72806506138b9bd44a2ab31a419.mp4" type="video/mp4" autoplay="" loop="" muted="" playsinline=""></video></div>
+<div class="col-lg-6 d-flex justify-content-center"><div class="home-hero-module--aspect-ratio-box--7d4bc"><video class="home-hero-module--illustration--07433" src="/static/home-page-main-30c6e72806506138b9bd44a2ab31a419.mp4" type="video/mp4" autoplay="" loop="" muted="" playsinline=""></video></div></div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
